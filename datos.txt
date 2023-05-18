@@ -1,0 +1,23 @@
+El módulo pathlib fue introducido por primera vez en la versión 3.4 de Python, lanzada en marzo de 2014, 
+como una adición a la biblioteca estándar de Python. Fue diseñado para proporcionar una interfaz más intuitiva
+ y orientada a objetos para trabajar con rutas de archivos y directorios en comparación con las opciones 
+existentes, como el módulo os.path y las operaciones basadas en cadenas de texto.
+
+El objetivo principal de pathlib era abordar algunas deficiencias de las opciones anteriores y ofrecer 
+una forma más coherente y segura de manejar las rutas de archivos. El diseño del módulo se basa en el 
+concepto de rutas y objetos de ruta, donde las rutas del sistema de archivos se representan como objetos
+ y se proporcionan métodos convenientes para realizar operaciones comunes.
+
+La adición de pathlib a la biblioteca estándar de Python fue muy bien recibida por la comunidad de
+ desarrolladores. Su sintaxis clara y orientada a objetos ha facilitado la escritura de código más 
+legible y mantenible al manipular rutas de archivos y directorios.
+
+Desde su introducción, pathlib ha sido ampliamente adoptado y se ha convertido en la opción preferida 
+para trabajar con rutas en Python. Ha ganado popularidad debido a su enfoque más intuitivo y su capacidad 
+para manejar de manera transparente diferentes sistemas operativos, lo que lo hace ideal para desarrolladores
+ que necesitan escribir código portátil y compatible con múltiples plataformas.
+
+En resumen, pathlib fue introducido en Python 3.4 como una adición a la biblioteca estándar para
+ proporcionar una interfaz más intuitiva y orientada a objetos para trabajar con rutas de archivos 
+y directorios. Ha ganado popularidad debido a su sintaxis clara y su capacidad para manejar de manera 
+transparente las diferencias entre sistemas operativos.
